@@ -1,0 +1,9 @@
+spring:
+  webflux:
+    base-path: /phone/api/v1
+  application:
+    name: phone-number-service
+
+## server/servlet details
+server:
+  port: 8080

@@ -1,0 +1,20 @@
+[
+  {
+    "phoneId": 1,
+    "number": "0423182484",
+    "activated": true,
+    "type": "MOBILE"
+  },
+  {
+    "phoneId": 2,
+    "number": "0423182485",
+    "activated": false,
+    "type": "MOBILE"
+  },
+  {
+    "phoneId": 3,
+    "number": "0423182486",
+    "activated": false,
+    "type": "MOBILE"
+  }
+]
